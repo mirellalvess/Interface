@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: #F7ECDE
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    align-items: center;
+    box-shadow: 10px 10px 10px plum;
+}
+p{
+    text-align: center;
+    font-size: 17px;
+
+}
+#Interface{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+#pagina{
+    border: 10px solid plum;
+    border-radius: 10%;
+}
+#data{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
